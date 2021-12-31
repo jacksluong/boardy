@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-BoardsApp/Pods-BoardsApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework
+${BUILT_PRODUCTS_DIR}/Floaty/Floaty.framework
+${BUILT_PRODUCTS_DIR}/Parse/Parse.framework

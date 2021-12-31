@@ -1,0 +1,200 @@
+{
+"results" : [
+
+  {
+    "objectId": "807Ow8AVG5",
+    "type": 1,
+    "createdAt": "2019-08-13T21:00:40.253Z",
+    "updatedAt": "2019-10-12T03:58:47.446Z",
+    "group": "Example Club 2",
+    "location": "",
+    "title": "Club Advisor",
+    "description": "Our club advisor is leaving! Please come wish her good bye :(",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-11-26T12:20:00.000Z"
+    },
+    "hidden": false
+  },
+  {
+    "objectId": "aag6YNffL7",
+    "type": 3,
+    "group": "Random Club",
+    "title": "Membership Forms Due",
+    "hidden": false,
+    "createdAt": "2019-08-19T14:59:39.266Z",
+    "updatedAt": "2019-10-12T15:40:51.948Z",
+    "description": "If you want to be a member of the Random Club, you must hand in a membership form to an officer by the end of this month. No exceptions will be made.",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-11-13T15:00:00.000Z"
+    },
+    "location": "B428"
+  },
+  {
+    "objectId": "edYPZoX4MV",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-11-26T12:30:00.000Z"
+    },
+    "type": 1,
+    "group": "Example Club 2",
+    "title": "New Club Advisor",
+    "description": "We have a new club advisor now! You can visit him at B244 at anytime to catch him up with what the club has been doing so far, and make him feel welcome!",
+    "location": "",
+    "hidden": false,
+    "createdAt": "2019-10-12T15:16:54.505Z",
+    "updatedAt": "2019-10-12T15:24:16.615Z"
+  },
+  {
+    "objectId": "zT0b6jbmMk",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-11-13T15:00:00.000Z"
+    },
+    "type": 3,
+    "group": "Random Club",
+    "title": "Membership Forms Due",
+    "description": "If you want to be in the club for the remainder of the year, you must turn in the membership form so we can add you into the system!",
+    "location": "",
+    "hidden": false,
+    "createdAt": "2019-10-12T15:24:27.838Z",
+    "updatedAt": "2019-10-12T15:24:27.838Z"
+  },
+  {
+    "objectId": "YB52O4aODR",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-11-22T15:00:00.000Z"
+    },
+    "type": 1,
+    "group": "Administration",
+    "title": "Early Release",
+    "description": "Don't forget, this Friday, school ends at 12:30! The schedule is 4567.",
+    "location": "",
+    "hidden": false,
+    "createdAt": "2019-10-12T15:26:19.537Z",
+    "updatedAt": "2019-10-12T15:26:19.537Z"
+  },
+  {
+    "objectId": "KIzOmU9eHR",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-10-25T14:30:00.000Z"
+    },
+    "type": 1,
+    "group": "Administration",
+    "title": "Report Cards",
+    "description": "Come pick up your report cards in the main office when you can!",
+    "location": "",
+    "hidden": false,
+    "createdAt": "2019-10-12T15:27:27.382Z",
+    "updatedAt": "2019-10-12T15:27:27.382Z"
+  },
+  {
+    "objectId": "212AXUGXuS",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-10-24T15:00:00.000Z"
+    },
+    "type": 3,
+    "group": "Example Club",
+    "title": "Big Meeting!",
+    "description": "Let's go!! We need to plan all the big events we have coming up, and if you attend, we'll give out T-shirts! ",
+    "location": "J284",
+    "hidden": false,
+    "createdAt": "2019-10-12T15:28:53.242Z",
+    "updatedAt": "2019-10-12T15:48:20.102Z"
+  },
+  {
+    "objectId": "wRQSSb3lmd",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-11-15T17:00:00.000Z"
+    },
+    "type": 2,
+    "group": "Administration",
+    "title": "Thanksgiving Event",
+    "description": "Come to the annual Thanksgiving parade and football game where students and faculty get together for some fun activities!",
+    "location": "MacDonald Stadium",
+    "hidden": false,
+    "createdAt": "2019-10-12T15:32:39.468Z",
+    "updatedAt": "2019-10-12T15:32:41.516Z"
+  },
+  {
+    "objectId": "8wdmu6T7zX",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-10-29T12:00:00.000Z"
+    },
+    "type": 3,
+    "group": "Computer Club",
+    "title": "Club Picture",
+    "description": "We will be having our club picture taken this meeting, which will be going into this year's yearbook...don't miss it!",
+    "location": "",
+    "hidden": false,
+    "createdAt": "2019-10-12T15:35:04.349Z",
+    "updatedAt": "2019-10-12T15:35:04.349Z"
+  },
+  {
+    "objectId": "qsonfZ7Ngv",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-11-01T16:00:00.000Z"
+    },
+    "type": 1,
+    "group": "Example Club",
+    "title": "Job Applications",
+    "description": "If you would like to work with the organization that we're partnered with, please contact our club advisor or see him at B337 for more information on the matter. Be sure to bring your student ID card.",
+    "location": "",
+    "hidden": false,
+    "createdAt": "2019-10-12T15:38:19.627Z",
+    "updatedAt": "2019-10-12T15:48:00.802Z"
+  },
+  {
+    "objectId": "YQY5Lzt9e5",
+    "type": 3,
+    "group": "Administration",
+    "title": "Class Assembly",
+    "location": "(From 9th to 12th) Caf A, Caf B, Gym, Auditorium",
+    "hidden": false,
+    "createdAt": "2019-10-12T15:40:25.767Z",
+    "updatedAt": "2019-10-12T15:48:49.495Z",
+    "description": "All the classes will meet at a designated location for an hour to discuss plans and events.",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-10-23T09:45:00.000Z"
+    }
+  },
+  {
+    "objectId": "UktO1zeRSj",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-11-02T10:30:00.000Z"
+    },
+    "type": 2,
+    "group": "Example Club",
+    "title": "Sports Tournament",
+    "description": "There's nothing more fun than tournaments like these! Come for free and earn prizes.",
+    "location": "Finn Gym",
+    "hidden": false,
+    "createdAt": "2019-10-12T15:43:40.409Z",
+    "updatedAt": "2019-10-12T15:43:40.409Z"
+  },
+  {
+    "objectId": "ExAQEwJD8K",
+    "hidden": false,
+    "createdAt": "2019-10-12T15:45:04.138Z",
+    "updatedAt": "2019-10-12T15:46:56.860Z",
+    "location": "Outside Caf A",
+    "type": 2,
+    "group": "Random Club",
+    "title": "Flash Sale!",
+    "description": "We're selling clothing and objects for a discount from our usual prices; it'll run from 2 to 4 PM, so be sure to come see if there's anything you like!",
+    "time": {
+      "__type": "Date",
+      "iso": "2019-10-28T14:00:00.000Z"
+    }
+  }
+]
+}

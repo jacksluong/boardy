@@ -1,2 +1,0 @@
-# Boardy
-Boardy serves as a lightweight digital bulletin board on iOS platforms built for high schoolers to share and view information from others in a convenient manner. It offers features such as pinning, marking certain groups (student organizations) as favorites, filtering posts in different ways, a couple sorting options, and a system of making posts for groups without the use of accounts. Parse Server is used for database purposes.

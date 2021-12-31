@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14490.99" systemVersion="19A512f" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Group" representedClassName="GroupMO" syncable="YES">
+        <attribute name="desc" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="email" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="groupId" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="image" optional="YES" attributeType="Binary">
+            <userInfo/>
+        </attribute>
+        <attribute name="name" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="password" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="timeCreated" attributeType="Date" usesScalarValueType="NO">
+            <userInfo/>
+        </attribute>
+    </entity>
+    <entity name="Post" representedClassName="PostMO" syncable="YES">
+        <attribute name="desc" optional="YES" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="group" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="image" optional="YES" attributeType="Binary">
+            <userInfo/>
+        </attribute>
+        <attribute name="location" optional="YES" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="postId" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="time" attributeType="Date" usesScalarValueType="NO">
+            <userInfo/>
+        </attribute>
+        <attribute name="timeCreated" attributeType="Date" usesScalarValueType="NO">
+            <userInfo/>
+        </attribute>
+        <attribute name="timeLastUpdated" attributeType="Date" usesScalarValueType="NO">
+            <userInfo/>
+        </attribute>
+        <attribute name="title" optional="YES" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="type" attributeType="Integer 16" usesScalarValueType="YES">
+            <userInfo/>
+        </attribute>
+    </entity>
+    <elements>
+        <element name="Group" positionX="-54" positionY="-9" width="128" height="150"/>
+        <element name="Post" positionX="-63" positionY="-18" width="128" height="195"/>
+    </elements>
+</model>
